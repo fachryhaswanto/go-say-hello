@@ -1,5 +1,5 @@
 package mod_say_what
 
-function testing(name string) string {
+function Testing(name string) string {
     return "Hello " + name 
 }
