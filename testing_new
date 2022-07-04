@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func hello_world() int {
+func Hello_World() int {
     return 2+2
 }
